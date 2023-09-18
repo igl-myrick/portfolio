@@ -11,7 +11,7 @@
 
 ## Description
 
-_The landing page of my portfolio._
+_This is the landing page of my portfolio, where you can find more about me._
 
 ## Setup/Installation Requirements
 
