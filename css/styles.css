@@ -1,13 +1,39 @@
 body {
   background-color: #b0d899;
+  font-family: georgia;
 }
 
 .underline {
   text-decoration: underline;
 }
 
+.about {
+  width: 28%;
+  padding: 10px;
+  padding-left: 5%;
+  float: left;
+}
+
+.hobbies {
+  width: 28%;
+  padding: 10px;
+  float: right;
+}
+
+.projects {
+  width: 56%;
+  padding-left: 5%;
+  float: left;
+}
+
+img {
+  float: right;
+  padding: 10px;
+  padding-right: 5%;
+}
+
 hr {
-  width: 80%;
+  width: 90%;
 }
 
 h1 {
