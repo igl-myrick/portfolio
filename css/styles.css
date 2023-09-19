@@ -38,6 +38,10 @@ body {
   border: 2px solid #495e3d;
 }
 
+.list {
+  line-height: 24px;
+}
+
 img {
   float: right;
   padding: 10px;
