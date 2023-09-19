@@ -1,6 +1,8 @@
 body {
   background-color: #b0d899;
   font-family: georgia;
+  padding-left: 10%;
+  padding-right: 10%;
 }
 
 .underline {
@@ -8,35 +10,39 @@ body {
 }
 
 .about {
-  width: 28%;
+  width: 26.5%;
   padding: 10px;
-  padding-left: 5%;
+  margin: 10px;
   float: left;
+  background-color: #fff0c0;
+  border: 2px solid #645a3c;
 }
 
 .hobbies {
-  width: 28%;
+  width: 26.5%;
   padding: 10px;
+  margin: 10px;
+  height: 270px;
   float: right;
+  background-color: #8be9ca;
+  border: 2px solid #366455;
 }
 
 .projects {
   width: 56%;
-  padding-left: 5%;
+  padding: 10px;
+  margin: 10px;
   float: left;
+  background-color: #99bd84;
+  border: 2px solid #495e3d;
 }
 
 img {
   float: right;
   padding: 10px;
-  padding-right: 5%;
-}
-
-hr {
-  width: 90%;
 }
 
 h1 {
   text-align: center;
-  font-size: 56px;
+  font-size: 60px;
 }
