@@ -26,7 +26,7 @@ body {
   text-decoration: underline;
 }
 
-@keyframes color {
+@keyframes about {
   0% {
     background-color: #b0d899;
     color: #b0d899;
@@ -41,7 +41,7 @@ body {
 
 .about {
   animation-duration: 3s;
-  animation-name: color;
+  animation-name: about;
   width: 26.5%;
   padding: 10px;
   margin: 10px;
@@ -50,7 +50,22 @@ body {
   border: 2px solid #645a3c;
 }
 
+@keyframes hobbies {
+  0% {
+    background-color: #b0d899;
+    color: #b0d899;
+    border: 2px solid #b0d899;
+  }
+  100% {
+    background-color: #8be9ca;
+    color: #000000;
+    border: 2px solid #366455;
+  }
+}
+
 .hobbies {
+  animation-duration: 3s;
+  animation-name: hobbies;
   width: 26.5%;
   padding: 10px;
   margin-top: 10px;
@@ -61,7 +76,22 @@ body {
   border: 2px solid #366455;
 }
 
+@keyframes projects {
+  0% {
+    background-color: #b0d899;
+    color: #b0d899;
+    border: 2px solid #b0d899;
+  }
+  100% {
+    background-color: #99bd84;
+    color: #000000;
+    border: 2px solid #495e3d;
+  }
+}
+
 .projects {
+  animation-duration: 3s;
+  animation-name: projects;
   width: 56%;
   padding: 10px;
   margin: 10px;
