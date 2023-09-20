@@ -30,15 +30,17 @@ body {
   0% {
     background-color: #b0d899;
     color: #b0d899;
+    border: 2px solid #b0d899;
   }
   100% {
     background-color: #fff0c0;
     color: #000000;
+    border: 2px solid #645a3c;
   }
 }
 
 .about {
-  animation-duration: 4s;
+  animation-duration: 3s;
   animation-name: color;
   width: 26.5%;
   padding: 10px;
