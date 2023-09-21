@@ -5,23 +5,6 @@ body {
   padding-right: 10%;
 }
 
-/* .anim {
-  animation-duration: 2s;
-  animation-name: slidein;
-}
-
-@keyframes slidein {
-  from {
-   margin-left: -250%;
-   width: 100%; 
-  }
-
-  to {
-    margin-left: 0%;
-    width: 100%;
-  }
-} */
-
 .underline {
   text-decoration: underline;
 }
@@ -102,6 +85,23 @@ body {
   float: left;
   background-color: #99bd84;
   border: 2px solid #495e3d;
+}
+
+@keyframes link {
+  0% {
+    color: #b0d899;
+  }
+  100% {
+    color: #0000ff;
+  }
+}
+
+a {
+  animation-duration: 2s;
+  animation-delay: 8s;
+  animation-fill-mode: backwards;
+  animation-name: link;
+  color: #0000ff;
 }
 
 li {
