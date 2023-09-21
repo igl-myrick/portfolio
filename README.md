@@ -19,6 +19,8 @@ _This is the landing page of my portfolio, where you can find more about me._
 * _Open the top level of the folder_
 * _Open index.html_
 
+_You can also view the website at igl-myrick.github.io/portfolio_
+
 ## Known Bugs
 
 * _None at the moment_
