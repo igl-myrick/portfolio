@@ -65,8 +65,9 @@ body {
 
 .hobbies {
   animation-duration: 2s;
-  animation-name: hobbies;
   animation-delay: 4s;
+  animation-fill-mode: backwards;
+  animation-name: hobbies;
   width: 26.5%;
   padding: 10px;
   margin-top: 10px;
@@ -93,6 +94,7 @@ body {
 .projects {
   animation-duration: 2s;
   animation-delay: 8s;
+  animation-fill-mode: backwards;
   animation-name: projects;
   width: 56%;
   padding: 10px;
