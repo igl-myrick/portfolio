@@ -19,7 +19,7 @@ _This is the landing page of my portfolio, where you can find more about me._
 * _Open the top level of the folder_
 * _Open index.html_
 
-_You can also view the website at igl-myrick.github.io/portfolio_
+You can also view the website live [here](igl-myrick.github.io/portfolio)
 
 ## Known Bugs
 
